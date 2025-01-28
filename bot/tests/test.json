@@ -1,0 +1,2350 @@
+{
+   "config": {},
+   "deviceType": "desktop",
+   "session": {
+       "cmpEnabled": false,
+       "showAds": true,
+       "logClientMetrics": false,
+       "fringeEnabled": true,
+       "features": [
+           "song_stories_public_launch"
+       ]
+   },
+   "currentPage": "songPage",
+   "songPage": {
+       "longTailCacheExperiment": null,
+       "song": 10584710,
+       "pinnedQuestions": [],
+       "metadataQuestions": [
+           "producer:song:10584710",
+           "release-date:song:10584710",
+           "writer:song:10584710"
+       ],
+       "lyricsData": {
+           "referents": [
+               33389489,
+               33349504
+           ],
+           "body": {
+               "html": "<p>[Текст песни «Backward»]<br>n<br>n[Интро: КлоуКома]<br>nЭй, fu-fu-fu-fuck you-you<br>n<i>Это PROOVY папа</i><br>nНажимай на—<br>n<br>n[Припев: КлоуКома &amp; <i>CAKEBOY</i>]<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>n<br>n[Куплет 1: КлоуКома]<br>nМы пришли, пока ты думал, 6-1, 132<br>nТебе некого позвать, ведь вся твоя братва мертва<br>nНу а кто тебе сказал, что твоя жизнь — это игра?<br>nНадо делать аккуратно, чтобы не забрала земля (Эй, эй, эй)<br>nНикогда не думал, что мне будет легко<br>nХочу оставить след, но не оставить пятно (Ха-ха-ха-ха-ха)<br>nНе приближайся, пацан, fuck y'all<br>nНажимай на газ — это «KISS THE WALL» (Уо)<br>n<br>n[Припев: КлоуКома &amp; <i>CAKEBOY</i>]<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>n<br>n[Куплет 2: CAKEBOY]<br>nОкей, CAKE здесь (У), я знаю в чём свэг (Е)<br>nМне не нужно представляться, говорю всё как есть<br>nНа груди висит крест, на запястье пиздец (Эй, эй, эй)<br>nВидимо, скоро наши треки будут звучать везде<br>nИ мне не остановиться (Что?), CAKEBOY — убийца (Да)<br>n<a href='/33389489/Cakeboy-and-kloukoma-backward/' data-id='33389489' class='has_pinned_annotation has_verified_annotation' data-editorial-state='needs_exegesis' data-classification='verified'>Доказательств нет, я как Майк сотру ваши лица</a> (У)<br>nНе пойду против принципов, <a href='/33349504/Cakeboy-and-kloukoma-backward/Cake-bling' data-id='33349504' data-editorial-state='pending' data-classification='unreviewed'>CAKE и Кома — принцы (Bling)</a><br>nКаждый новый дроп заставит трясти ягодицы («KISS THE WALL»)<br>n<br>n[Припев: КлоуКома &amp; <i>CAKEBOY</i>]<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>nНажимай на газ, нажим-нажимай на газ-газ (<i>Fuck, fuck, fuck, fuck</i>)<br>nНажимай на газ — это «KISS THE WALL» (<i>Fuck, fuck</i>)<br>n<br>n[Аутро: КлоуКома &amp; <i>CAKEBOY</i>]<br>n<i>Fuck, fuck, fuck, fuck, fuck, fuck, fuck</i><br>n«KISS THE WALL»<br>n<i>Fuck, fuck, fuck, fuck, fuck, fuck, fuck</i><br>n«KISS THE WALL»</p>nn",
+               "children": [
+                   {
+                       "children": [
+                           "[Текст песни «Backward»]",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Интро: КлоуКома]",
+                           {
+                               "tag": "br"
+                           },
+                           "Эй, fu-fu-fu-fuck you-you",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "children": [
+                                   "Это PROOVY папа"
+                               ],
+                               "tag": "i"
+                           },
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на—",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Припев: КлоуКома & ",
+                           {
+                               "children": [
+                                   "CAKEBOY"
+                               ],
+                               "tag": "i"
+                           },
+                           "]",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Куплет 1: КлоуКома]",
+                           {
+                               "tag": "br"
+                           },
+                           "Мы пришли, пока ты думал, 6-1, 132",
+                           {
+                               "tag": "br"
+                           },
+                           "Тебе некого позвать, ведь вся твоя братва мертва",
+                           {
+                               "tag": "br"
+                           },
+                           "Ну а кто тебе сказал, что твоя жизнь — это игра?",
+                           {
+                               "tag": "br"
+                           },
+                           "Надо делать аккуратно, чтобы не забрала земля (Эй, эй, эй)",
+                           {
+                               "tag": "br"
+                           },
+                           "Никогда не думал, что мне будет легко",
+                           {
+                               "tag": "br"
+                           },
+                           "Хочу оставить след, но не оставить пятно (Ха-ха-ха-ха-ха)",
+                           {
+                               "tag": "br"
+                           },
+                           "Не приближайся, пацан, fuck y'all",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (Уо)",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Припев: КлоуКома & ",
+                           {
+                               "children": [
+                                   "CAKEBOY"
+                               ],
+                               "tag": "i"
+                           },
+                           "]",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "data": {
+                                   "name": "desktop_song_lyrics_inread"
+                               },
+                               "tag": "inread-ad"
+                           },
+                           "[Куплет 2: CAKEBOY]",
+                           {
+                               "tag": "br"
+                           },
+                           "Окей, CAKE здесь (У), я знаю в чём свэг (Е)",
+                           {
+                               "tag": "br"
+                           },
+                           "Мне не нужно представляться, говорю всё как есть",
+                           {
+                               "tag": "br"
+                           },
+                           "На груди висит крест, на запястье пиздец (Эй, эй, эй)",
+                           {
+                               "tag": "br"
+                           },
+                           "Видимо, скоро наши треки будут звучать везде",
+                           {
+                               "tag": "br"
+                           },
+                           "И мне не остановиться (Что?), CAKEBOY — убийца (Да)",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "children": [
+                                   "Доказательств нет, я как Майк сотру ваши лица"
+                               ],
+                               "data": {
+                                   "classification": "verified",
+                                   "editorialState": "needs_exegesis",
+                                   "id": "33389489"
+                               },
+                               "attributes": {
+                                   "class": "has_pinned_annotation has_verified_annotation",
+                                   "href": "/33389489/Cakeboy-and-kloukoma-backward/"
+                               },
+                               "tag": "a"
+                           },
+                           " (У)",
+                           {
+                               "tag": "br"
+                           },
+                           "Не пойду против принципов, ",
+                           {
+                               "children": [
+                                   "CAKE и Кома — принцы (Bling)"
+                               ],
+                               "data": {
+                                   "classification": "unreviewed",
+                                   "editorialState": "pending",
+                                   "id": "33349504"
+                               },
+                               "attributes": {
+                                   "href": "/33349504/Cakeboy-and-kloukoma-backward/Cake-bling"
+                               },
+                               "tag": "a"
+                           },
+                           {
+                               "tag": "br"
+                           },
+                           "Каждый новый дроп заставит трясти ягодицы («KISS THE WALL»)",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Припев: КлоуКома & ",
+                           {
+                               "children": [
+                                   "CAKEBOY"
+                               ],
+                               "tag": "i"
+                           },
+                           "]",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ, нажим-нажимай на газ-газ (",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "Нажимай на газ — это «KISS THE WALL» (",
+                           {
+                               "children": [
+                                   "Fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           ")",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "tag": "br"
+                           },
+                           "[Аутро: КлоуКома & ",
+                           {
+                               "children": [
+                                   "CAKEBOY"
+                               ],
+                               "tag": "i"
+                           },
+                           "]",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           {
+                               "tag": "br"
+                           },
+                           "«KISS THE WALL»",
+                           {
+                               "tag": "br"
+                           },
+                           "",
+                           {
+                               "children": [
+                                   "Fuck, fuck, fuck, fuck, fuck, fuck, fuck"
+                               ],
+                               "tag": "i"
+                           },
+                           {
+                               "tag": "br"
+                           },
+                           "«KISS THE WALL»"
+                       ],
+                       "tag": "p"
+                   },
+                   ""
+               ],
+               "tag": "root"
+           },
+           "lyricsPlaceholderReason": null,
+           "eligibleForIqByLyricsSize": true,
+           "clientTimestamps": {
+               "updatedByHumanAt": 1735595545,
+               "lyricsUpdatedAt": 1731408196
+           }
+       },
+       "hotSongsPreview": [
+           {
+               "url": "https://genius.com/Genius-english-translations-bad-bunny-dtmf-english-translation-lyrics",
+               "title": "Bad Bunny - DtMF (English Translation)",
+               "id": 11312210
+           },
+           {
+               "url": "https://genius.com/Bad-bunny-dtmf-lyrics",
+               "title": "DtMF",
+               "id": 11296557
+           },
+           {
+               "url": "https://genius.com/Genius-english-translations-bad-bunny-baile-inolvidable-english-translation-lyrics",
+               "title": "Bad Bunny - BAILE INoLVIDABLE (English Translation)",
+               "id": 11311785
+           },
+           {
+               "url": "https://genius.com/Billie-eilish-wildflower-lyrics",
+               "title": "WILDFLOWER",
+               "id": 10257627
+           },
+           {
+               "url": "https://genius.com/Genius-romanizations-squid-game-mingle-game-song-round-and-round-romanized-lyrics",
+               "title": "Squid Game - Mingle Game Song (Round and Round) (Romanized)",
+               "id": 11294494
+           }
+       ],
+       "featuredQuestion": null,
+       "defaultQuestions": [],
+       "unansweredDefaultQuestions": [
+           "artist_comment:song:10584710",
+           "live_performance:song:10584710",
+           "song_meaning:song:10584710"
+       ],
+       "showFeaturedQuestion": false,
+       "pendingQuestionCount": 0,
+       "dfpKv": [
+           {
+               "values": [
+                   "10584710"
+               ],
+               "name": "song_id"
+           },
+           {
+               "values": [
+                   "Backward"
+               ],
+               "name": "song_title"
+           },
+           {
+               "values": [
+                   "324698",
+                   "1596651"
+               ],
+               "name": "artist_id"
+           },
+           {
+               "values": [
+                   "CAKEBOY",
+                   "КлоуКома KlouKoma"
+               ],
+               "name": "artist_name"
+           },
+           {
+               "values": [
+                   "true"
+               ],
+               "name": "is_explicit"
+           },
+           {
+               "values": [
+                   "4793"
+               ],
+               "name": "pageviews"
+           },
+           {
+               "values": [
+                   "1434"
+               ],
+               "name": "primary_tag_id"
+           },
+           {
+               "values": [
+                   "rap"
+               ],
+               "name": "primary_tag"
+           },
+           {
+               "values": [
+                   "4806",
+                   "709",
+                   "2960",
+                   "1434"
+               ],
+               "name": "tag_id"
+           },
+           {
+               "values": [
+                   "E"
+               ],
+               "name": "song_tier"
+           },
+           {
+               "values": [],
+               "name": "topic"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "artist_in_top_10"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "album_in_top_10"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "new_release"
+           },
+           {
+               "values": [
+                   "202410"
+               ],
+               "name": "release_month"
+           },
+           {
+               "values": [
+                   "2024"
+               ],
+               "name": "release_year"
+           },
+           {
+               "values": [
+                   "2020"
+               ],
+               "name": "release_decade"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "stubhub_is_active"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10_rap"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10_rock"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10_country"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10_r_and_b"
+           },
+           {
+               "values": [
+                   "false"
+               ],
+               "name": "in_top_10_pop"
+           },
+           {
+               "values": [
+                   "production"
+               ],
+               "name": "environment"
+           },
+           {
+               "values": [
+                   "web"
+               ],
+               "name": "platform"
+           },
+           {
+               "values": [
+                   "desktop_react"
+               ],
+               "name": "platform_variant"
+           },
+           {
+               "values": [
+                   "control"
+               ],
+               "name": "interstitial_variant"
+           },
+           {
+               "values": [
+                   "song"
+               ],
+               "name": "ad_page_type"
+           }
+       ],
+       "trackingData": [
+           {
+               "value": 10584710,
+               "key": "Song ID"
+           },
+           {
+               "value": "Backward",
+               "key": "Title"
+           },
+           {
+               "value": "CAKEBOY",
+               "key": "Primary Artist"
+           },
+           {
+               "value": 324698,
+               "key": "Primary Artist ID"
+           },
+           {
+               "value": [
+                   "CAKEBOY",
+                   "КлоуКома (KlouKoma)"
+               ],
+               "key": "Primary Artists"
+           },
+           {
+               "value": [
+                   324698,
+                   1596651
+               ],
+               "key": "Primary Artists IDs"
+           },
+           {
+               "value": "324698,1596651",
+               "key": "Primary Artists IDs Fallback"
+           },
+           {
+               "value": "KISS THE WALL",
+               "key": "Primary Album"
+           },
+           {
+               "value": 1202288,
+               "key": "Primary Album ID"
+           },
+           {
+               "value": "rap",
+               "key": "Tag"
+           },
+           {
+               "value": "rap",
+               "key": "Primary Tag"
+           },
+           {
+               "value": 1434,
+               "key": "Primary Tag ID"
+           },
+           {
+               "value": true,
+               "key": "Music?"
+           },
+           {
+               "value": "Song",
+               "key": "Annotatable Type"
+           },
+           {
+               "value": 10584710,
+               "key": "Annotatable ID"
+           },
+           {
+               "value": false,
+               "key": "featured_video"
+           },
+           {
+               "value": [],
+               "key": "cohort_ids"
+           },
+           {
+               "value": true,
+               "key": "has_verified_callout"
+           },
+           {
+               "value": true,
+               "key": "has_featured_annotation"
+           },
+           {
+               "value": "2024-06-27T16:16:08Z",
+               "key": "created_at"
+           },
+           {
+               "value": "2024-06-01",
+               "key": "created_month"
+           },
+           {
+               "value": 2024,
+               "key": "created_year"
+           },
+           {
+               "value": "E",
+               "key": "song_tier"
+           },
+           {
+               "value": false,
+               "key": "Has Recirculated Articles"
+           },
+           {
+               "value": "ru",
+               "key": "Lyrics Language"
+           },
+           {
+               "value": true,
+               "key": "Has Apple Match"
+           },
+           {
+               "value": "2024-10-25",
+               "key": "Release Date"
+           },
+           {
+               "value": null,
+               "key": "NRM Tier"
+           },
+           {
+               "value": null,
+               "key": "NRM Target Date"
+           },
+           {
+               "value": false,
+               "key": "Has Description"
+           },
+           {
+               "value": true,
+               "key": "Has Youtube URL"
+           },
+           {
+               "value": false,
+               "key": "Has Translation Q&A"
+           },
+           {
+               "value": 2,
+               "key": "Comment Count"
+           },
+           {
+               "value": false,
+               "key": "hot"
+           },
+           {
+               "value": true,
+               "key": "has_recommendations"
+           },
+           {
+               "value": false,
+               "key": "has_stubhub_artist"
+           },
+           {
+               "value": false,
+               "key": "has_stubhub_link"
+           },
+           {
+               "value": false,
+               "key": "Translation"
+           },
+           {
+               "value": "mixpanel",
+               "key": "recommendation_strategy"
+           },
+           {
+               "value": "control",
+               "key": "web_interstitial_variant"
+           },
+           {
+               "value": "desktop_react",
+               "key": "platform_variant"
+           }
+       ],
+       "title": "CAKEBOY & КлоуКома (KlouKoma) – Backward Lyrics | Genius Lyrics",
+       "path": "/Cakeboy-and-kloukoma-backward-lyrics",
+       "pageType": "song",
+       "initialAdUnits": [
+           "desktop_song_inread",
+           "desktop_song_inread2",
+           "desktop_song_inread3",
+           "desktop_song_leaderboard",
+           "desktop_song_lyrics_footer",
+           "desktop_song_marquee",
+           "desktop_song_medium1",
+           "desktop_song_sidebar_top",
+           "desktop_song_recommended_song",
+           "desktop_song_sponsored_minicharts"
+       ],
+       "hotSongsLink": "/hot-songs",
+       "headerBidPlacements": [],
+       "controllerAndAction": "songs#show",
+       "chartbeat": {
+           "title": "CAKEBOY & КлоуКома (KlouKoma) – Backward Lyrics | Genius Lyrics",
+           "sections": "songs,tag:rap",
+           "authors": "CAKEBOY,КлоуКома (KlouKoma)"
+       },
+       "unreviewedTopAnnotations": {}
+   },
+   "entities": {
+       "artists": {
+           "299966": {
+               "iq": 11605,
+               "url": "https://genius.com/artists/Gonefludd",
+               "slug": "Gonefludd",
+               "name": "GONE.Fludd",
+               "isVerified": true,
+               "isMemeVerified": false,
+               "indexCharacter": "g",
+               "imageUrl": "https://images.genius.com/582ceb610847614e71de3d2d2edf8de6.743x743x1.png",
+               "id": 299966,
+               "headerImageUrl": "https://images.genius.com/5d337bae43681eecd63b74d56785ace2.1000x794x1.jpg",
+               "apiPath": "/artists/299966",
+               "type": "artist"
+           },
+           "324698": {
+               "iq": 493,
+               "url": "https://genius.com/artists/Cakeboy",
+               "slug": "Cakeboy",
+               "name": "CAKEBOY",
+               "isVerified": true,
+               "isMemeVerified": false,
+               "indexCharacter": "c",
+               "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+               "id": 324698,
+               "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+               "apiPath": "/artists/324698",
+               "type": "artist"
+           },
+           "1596651": {
+               "iq": 2230,
+               "url": "https://genius.com/artists/Kloukoma",
+               "slug": "Kloukoma",
+               "name": "КлоуКома (KlouKoma)",
+               "isVerified": true,
+               "isMemeVerified": false,
+               "indexCharacter": "k",
+               "imageUrl": "https://images.genius.com/72c0e183c6f409408dfb2f7b81baa84d.640x640x1.jpg",
+               "id": 1596651,
+               "headerImageUrl": "https://images.genius.com/9a70cee43bdeb283a3759c35fc50b357.1000x500x1.jpg",
+               "apiPath": "/artists/1596651",
+               "type": "artist"
+           }
+       },
+       "songs": {
+           "7824335": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-close-the-door-lyrics",
+               "title": "Close the door",
+               "path": "/Cakeboy-and-kloukoma-close-the-door-lyrics",
+               "lyricsState": "complete",
+               "id": 7824335,
+               "apiPath": "/songs/7824335",
+               "type": "song"
+           },
+           "9753187": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-memphis-lyrics",
+               "title": "Мемфис (Memphis)",
+               "path": "/Cakeboy-and-kloukoma-memphis-lyrics",
+               "lyricsState": "complete",
+               "id": 9753187,
+               "apiPath": "/songs/9753187",
+               "type": "song"
+           },
+           "10493611": {
+               "url": "https://genius.com/Cakeboy-kloukoma-and-gonefludd-flashback-lyrics",
+               "title": "Flashback",
+               "path": "/Cakeboy-kloukoma-and-gonefludd-flashback-lyrics",
+               "lyricsState": "complete",
+               "id": 10493611,
+               "apiPath": "/songs/10493611",
+               "type": "song",
+               "primaryArtists": [
+                   324698,
+                   1596651,
+                   299966
+               ],
+               "primaryArtist": {
+                   "iq": 493,
+                   "url": "https://genius.com/artists/Cakeboy",
+                   "slug": "Cakeboy",
+                   "name": "CAKEBOY",
+                   "isVerified": true,
+                   "isMemeVerified": false,
+                   "indexCharacter": "c",
+                   "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                   "id": 324698,
+                   "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                   "apiPath": "/artists/324698",
+                   "type": "artist"
+               },
+               "featuredArtists": [],
+               "updatedByHumanAt": 1735595572,
+               "titleWithFeatured": "Flashback",
+               "stats": {
+                   "pageviews": 26999,
+                   "hot": false,
+                   "unreviewedAnnotations": 1
+               },
+               "songArtImageUrl": "https://images.genius.com/bf797d9d210cc870ff622e2869235bb4.1000x1000x1.png",
+               "songArtImageThumbnailUrl": "https://images.genius.com/bf797d9d210cc870ff622e2869235bb4.300x300x1.png",
+               "releaseDateWithAbbreviatedMonthForDisplay": "Jul. 5, 2024",
+               "releaseDateForDisplay": "July 5, 2024",
+               "releaseDateComponents": {
+                   "day": 5,
+                   "month": 7,
+                   "year": 2024
+               },
+               "relationshipsIndexUrl": "https://genius.com/Cakeboy-kloukoma-and-gonefludd-flashback-sample",
+               "pyongsCount": 1,
+               "primaryArtistNames": "CAKEBOY, КлоуКома (KlouKoma) & GONE.Fludd",
+               "lyricsUpdatedAt": 1729253860,
+               "lyricsOwnerId": 11383978,
+               "instrumental": false,
+               "headerImageUrl": "https://images.genius.com/bf797d9d210cc870ff622e2869235bb4.1000x1000x1.png",
+               "headerImageThumbnailUrl": "https://images.genius.com/bf797d9d210cc870ff622e2869235bb4.300x300x1.png",
+               "fullTitle": "Flashback by CAKEBOY, КлоуКома (KlouKoma) & GONE.Fludd",
+               "artistNames": "CAKEBOY, КлоуКома (KlouKoma) & GONE.Fludd",
+               "annotationCount": 1
+           },
+           "10584710": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-backward-lyrics",
+               "title": "Backward",
+               "path": "/Cakeboy-and-kloukoma-backward-lyrics",
+               "lyricsState": "complete",
+               "id": 10584710,
+               "apiPath": "/songs/10584710",
+               "type": "song",
+               "writerArtists": [
+                   {
+                       "iq": 493,
+                       "url": "https://genius.com/artists/Cakeboy",
+                       "slug": "Cakeboy",
+                       "name": "CAKEBOY",
+                       "isVerified": true,
+                       "isMemeVerified": false,
+                       "indexCharacter": "c",
+                       "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                       "id": 324698,
+                       "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                       "apiPath": "/artists/324698",
+                       "type": "artist"
+                   },
+                   {
+                       "iq": 2230,
+                       "url": "https://genius.com/artists/Kloukoma",
+                       "slug": "Kloukoma",
+                       "name": "КлоуКома (KlouKoma)",
+                       "isVerified": true,
+                       "isMemeVerified": false,
+                       "indexCharacter": "k",
+                       "imageUrl": "https://images.genius.com/72c0e183c6f409408dfb2f7b81baa84d.640x640x1.jpg",
+                       "id": 1596651,
+                       "headerImageUrl": "https://images.genius.com/9a70cee43bdeb283a3759c35fc50b357.1000x500x1.jpg",
+                       "apiPath": "/artists/1596651",
+                       "type": "artist"
+                   },
+                   {
+                       "iq": 2012,
+                       "url": "https://genius.com/artists/Proovy",
+                       "slug": "Proovy",
+                       "name": "PROOVY",
+                       "isVerified": true,
+                       "isMemeVerified": false,
+                       "indexCharacter": "p",
+                       "imageUrl": "https://images.genius.com/23a81df5e9756ffe590ce1468a8ea4b8.1000x1000x1.jpg",
+                       "id": 1594769,
+                       "headerImageUrl": "https://images.genius.com/e72a1adda9c1ff13a8440656192243a1.1000x400x1.jpg",
+                       "apiPath": "/artists/1594769",
+                       "type": "artist"
+                   }
+               ],
+               "verifiedLyricsBy": [],
+               "verifiedContributors": [
+                   {
+                       "user": 4561489,
+                       "artist": 324698,
+                       "contributions": [
+                           "annotations"
+                       ]
+                   }
+               ],
+               "verifiedAnnotationsBy": [
+                   {
+                       "currentUserMetadata": {
+                           "interactions": {
+                               "following": false
+                           },
+                           "excludedPermissions": [
+                               "follow"
+                           ],
+                           "permissions": []
+                       },
+                       "url": "https://genius.com/CAKEboy",
+                       "roleForDisplay": "verified_artist",
+                       "name": "CAKEBOY",
+                       "login": "CAKEboy",
+                       "isVerified": true,
+                       "isMemeVerified": false,
+                       "iq": 493,
+                       "id": 4561489,
+                       "humanReadableRoleForDisplay": "Verified Artist",
+                       "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                       "avatar": {
+                           "medium": {
+                               "boundingBox": {
+                                   "height": 400,
+                                   "width": 300
+                               },
+                               "url": "https://images.genius.com/avatars/medium/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                           },
+                           "small": {
+                               "boundingBox": {
+                                   "height": 100,
+                                   "width": 100
+                               },
+                               "url": "https://images.genius.com/avatars/small/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                           },
+                           "thumb": {
+                               "boundingBox": {
+                                   "height": 32,
+                                   "width": 32
+                               },
+                               "url": "https://images.genius.com/avatars/thumb/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                           },
+                           "tiny": {
+                               "boundingBox": {
+                                   "height": 16,
+                                   "width": 16
+                               },
+                               "url": "https://images.genius.com/avatars/tiny/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                           }
+                       },
+                       "apiPath": "/users/4561489",
+                       "aboutMeSummary": "Ганджа Дмитрий Андреевич (родился 25 июля 1997 года) — российский исполнитель, продюсер, звукорежиссёр и художник. Дмитрий — участник объединения GLAM GO GANG! и бывший участник",
+                       "type": "user"
+                   }
+               ],
+               "translationSongs": [],
+               "topScholar": {
+                   "user": {
+                       "currentUserMetadata": {
+                           "interactions": {
+                               "following": false
+                           },
+                           "excludedPermissions": [
+                               "follow"
+                           ],
+                           "permissions": []
+                       },
+                       "url": "https://genius.com/Denis3008",
+                       "roleForDisplay": "editor",
+                       "name": "glamgogangfan",
+                       "login": "Denis3008",
+                       "isVerified": false,
+                       "isMemeVerified": false,
+                       "iq": 241397,
+                       "id": 11383978,
+                       "humanReadableRoleForDisplay": "Editor",
+                       "headerImageUrl": "https://images.genius.com/5dbacc1b9e42da35603e6bac72dc95cc.800x533x1.jpg",
+                       "avatar": {
+                           "medium": {
+                               "boundingBox": {
+                                   "height": 400,
+                                   "width": 300
+                               },
+                               "url": "https://images.genius.com/avatars/medium/c0f00824e8f9bef4c6abaad53ab40004"
+                           },
+                           "small": {
+                               "boundingBox": {
+                                   "height": 100,
+                                   "width": 100
+                               },
+                               "url": "https://images.genius.com/avatars/small/c0f00824e8f9bef4c6abaad53ab40004"
+                           },
+                           "thumb": {
+                               "boundingBox": {
+                                   "height": 32,
+                                   "width": 32
+                               },
+                               "url": "https://images.genius.com/avatars/thumb/c0f00824e8f9bef4c6abaad53ab40004"
+                           },
+                           "tiny": {
+                               "boundingBox": {
+                                   "height": 16,
+                                   "width": 16
+                               },
+                               "url": "https://images.genius.com/avatars/tiny/c0f00824e8f9bef4c6abaad53ab40004"
+                           }
+                       },
+                       "apiPath": "/users/11383978",
+                       "aboutMeSummary": "Я просто парень, что сумел, окей?",
+                       "type": "user"
+                   },
+                   "pinnedRole": null,
+                   "attributionValue": 81,
+                   "type": "user_attribution"
+               },
+               "tags": [
+                   {
+                       "url": "https://genius.com/tags/in-russian",
+                       "primary": false,
+                       "name": "Русский (In Russian)",
+                       "id": 4806,
+                       "type": "tag"
+                   },
+                   {
+                       "url": "https://genius.com/tags/russia",
+                       "primary": false,
+                       "name": "Россия (Russia)",
+                       "id": 709,
+                       "type": "tag"
+                   },
+                   {
+                       "url": "https://genius.com/tags/russian-rap",
+                       "primary": false,
+                       "name": "Русский рэп (Russian Rap)",
+                       "id": 2960,
+                       "type": "tag"
+                   },
+                   {
+                       "url": "https://genius.com/tags/rap",
+                       "primary": true,
+                       "name": "Rap",
+                       "id": 1434,
+                       "type": "tag"
+                   }
+               ],
+               "songRelationships": [
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "samples"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "sampled_in"
+                   },
+                   {
+                       "songs": [
+                           {
+                               "primaryArtists": [
+                                   {
+                                       "iq": 493,
+                                       "url": "https://genius.com/artists/Cakeboy",
+                                       "slug": "Cakeboy",
+                                       "name": "CAKEBOY",
+                                       "isVerified": true,
+                                       "isMemeVerified": false,
+                                       "indexCharacter": "c",
+                                       "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                                       "id": 324698,
+                                       "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                                       "apiPath": "/artists/324698",
+                                       "type": "artist"
+                                   },
+                                   {
+                                       "iq": 2230,
+                                       "url": "https://genius.com/artists/Kloukoma",
+                                       "slug": "Kloukoma",
+                                       "name": "КлоуКома (KlouKoma)",
+                                       "isVerified": true,
+                                       "isMemeVerified": false,
+                                       "indexCharacter": "k",
+                                       "imageUrl": "https://images.genius.com/72c0e183c6f409408dfb2f7b81baa84d.640x640x1.jpg",
+                                       "id": 1596651,
+                                       "headerImageUrl": "https://images.genius.com/9a70cee43bdeb283a3759c35fc50b357.1000x500x1.jpg",
+                                       "apiPath": "/artists/1596651",
+                                       "type": "artist"
+                                   }
+                               ],
+                               "primaryArtist": {
+                                   "iq": 493,
+                                   "url": "https://genius.com/artists/Cakeboy",
+                                   "slug": "Cakeboy",
+                                   "name": "CAKEBOY",
+                                   "isVerified": true,
+                                   "isMemeVerified": false,
+                                   "indexCharacter": "c",
+                                   "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                                   "id": 324698,
+                                   "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                                   "apiPath": "/artists/324698",
+                                   "type": "artist"
+                               },
+                               "featuredArtists": [],
+                               "url": "https://genius.com/Cakeboy-and-kloukoma-phonk-lyrics",
+                               "updatedByHumanAt": 1735595325,
+                               "titleWithFeatured": "ФОНК (PHONK)",
+                               "title": "ФОНК (PHONK)",
+                               "stats": {
+                                   "pageviews": 32884,
+                                   "hot": false,
+                                   "unreviewedAnnotations": 0
+                               },
+                               "songArtImageUrl": "https://images.genius.com/6c504e56ede4cbf3f2d9481c53348473.1000x1000x1.png",
+                               "songArtImageThumbnailUrl": "https://images.genius.com/6c504e56ede4cbf3f2d9481c53348473.300x300x1.png",
+                               "releaseDateWithAbbreviatedMonthForDisplay": "Apr. 16, 2021",
+                               "releaseDateForDisplay": "April 16, 2021",
+                               "releaseDateComponents": {
+                                   "day": 16,
+                                   "month": 4,
+                                   "year": 2021
+                               },
+                               "relationshipsIndexUrl": "https://genius.com/Cakeboy-and-kloukoma-phonk-sample",
+                               "pyongsCount": 2,
+                               "primaryArtistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+                               "path": "/Cakeboy-and-kloukoma-phonk-lyrics",
+                               "lyricsUpdatedAt": 1727372147,
+                               "lyricsState": "complete",
+                               "lyricsOwnerId": 9837554,
+                               "instrumental": false,
+                               "id": 6537514,
+                               "headerImageUrl": "https://images.genius.com/6c504e56ede4cbf3f2d9481c53348473.1000x1000x1.png",
+                               "headerImageThumbnailUrl": "https://images.genius.com/6c504e56ede4cbf3f2d9481c53348473.300x300x1.png",
+                               "fullTitle": "ФОНК (PHONK) by CAKEBOY & КлоуКома (KlouKoma)",
+                               "artistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+                               "apiPath": "/songs/6537514",
+                               "annotationCount": 0,
+                               "type": "song"
+                           },
+                           {
+                               "primaryArtists": [
+                                   {
+                                       "iq": 493,
+                                       "url": "https://genius.com/artists/Cakeboy",
+                                       "slug": "Cakeboy",
+                                       "name": "CAKEBOY",
+                                       "isVerified": true,
+                                       "isMemeVerified": false,
+                                       "indexCharacter": "c",
+                                       "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                                       "id": 324698,
+                                       "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                                       "apiPath": "/artists/324698",
+                                       "type": "artist"
+                                   },
+                                   {
+                                       "iq": 2230,
+                                       "url": "https://genius.com/artists/Kloukoma",
+                                       "slug": "Kloukoma",
+                                       "name": "КлоуКома (KlouKoma)",
+                                       "isVerified": true,
+                                       "isMemeVerified": false,
+                                       "indexCharacter": "k",
+                                       "imageUrl": "https://images.genius.com/72c0e183c6f409408dfb2f7b81baa84d.640x640x1.jpg",
+                                       "id": 1596651,
+                                       "headerImageUrl": "https://images.genius.com/9a70cee43bdeb283a3759c35fc50b357.1000x500x1.jpg",
+                                       "apiPath": "/artists/1596651",
+                                       "type": "artist"
+                                   }
+                               ],
+                               "primaryArtist": {
+                                   "iq": 493,
+                                   "url": "https://genius.com/artists/Cakeboy",
+                                   "slug": "Cakeboy",
+                                   "name": "CAKEBOY",
+                                   "isVerified": true,
+                                   "isMemeVerified": false,
+                                   "indexCharacter": "c",
+                                   "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                                   "id": 324698,
+                                   "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                                   "apiPath": "/artists/324698",
+                                   "type": "artist"
+                               },
+                               "featuredArtists": [],
+                               "url": "https://genius.com/Cakeboy-and-kloukoma-backward-demo-lyrics",
+                               "updatedByHumanAt": 1735595787,
+                               "titleWithFeatured": "Backward (Demo)",
+                               "title": "Backward (Demo)",
+                               "stats": {
+                                   "hot": false,
+                                   "unreviewedAnnotations": 0
+                               },
+                               "songArtImageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                               "songArtImageThumbnailUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.300x300x1.jpg",
+                               "releaseDateWithAbbreviatedMonthForDisplay": null,
+                               "releaseDateForDisplay": null,
+                               "releaseDateComponents": null,
+                               "relationshipsIndexUrl": "https://genius.com/Cakeboy-and-kloukoma-backward-demo-sample",
+                               "pyongsCount": null,
+                               "primaryArtistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+                               "path": "/Cakeboy-and-kloukoma-backward-demo-lyrics",
+                               "lyricsUpdatedAt": 1731425519,
+                               "lyricsState": "complete",
+                               "lyricsOwnerId": 11383978,
+                               "instrumental": false,
+                               "id": 11104109,
+                               "headerImageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                               "headerImageThumbnailUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.300x300x1.jpg",
+                               "fullTitle": "Backward (Demo) by CAKEBOY & КлоуКома (KlouKoma)",
+                               "artistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+                               "apiPath": "/songs/11104109",
+                               "annotationCount": 0,
+                               "type": "song"
+                           }
+                       ],
+                       "type": "song_relationship",
+                       "relationshipType": "interpolates"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "interpolated_by"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "cover_of"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "covered_by"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "remix_of"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "remixed_by"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "live_version_of"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "performed_live_as"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "translation_of"
+                   },
+                   {
+                       "songs": [],
+                       "type": "song_relationship",
+                       "relationshipType": "translations"
+                   }
+               ],
+               "producerArtists": [
+                   {
+                       "iq": 2012,
+                       "url": "https://genius.com/artists/Proovy",
+                       "slug": "Proovy",
+                       "name": "PROOVY",
+                       "isVerified": true,
+                       "isMemeVerified": false,
+                       "indexCharacter": "p",
+                       "imageUrl": "https://images.genius.com/23a81df5e9756ffe590ce1468a8ea4b8.1000x1000x1.jpg",
+                       "id": 1594769,
+                       "headerImageUrl": "https://images.genius.com/e72a1adda9c1ff13a8440656192243a1.1000x400x1.jpg",
+                       "apiPath": "/artists/1594769",
+                       "type": "artist"
+                   }
+               ],
+               "primaryTag": {
+                   "url": "https://genius.com/tags/rap",
+                   "primary": true,
+                   "name": "Rap",
+                   "id": 1434,
+                   "type": "tag"
+               },
+               "primaryArtists": [
+                   324698,
+                   1596651
+               ],
+               "primaryArtist": {
+                   "iq": 493,
+                   "url": "https://genius.com/artists/Cakeboy",
+                   "slug": "Cakeboy",
+                   "name": "CAKEBOY",
+                   "isVerified": true,
+                   "isMemeVerified": false,
+                   "indexCharacter": "c",
+                   "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                   "id": 324698,
+                   "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                   "apiPath": "/artists/324698",
+                   "type": "artist"
+               },
+               "nextSong": 10493611,
+               "media": [
+                   {
+                       "url": "https://www.youtube.com/watch?v=F3O9xQ4kjy0",
+                       "type": "video",
+                       "start": 0,
+                       "provider": "youtube"
+                   }
+               ],
+               "lyricsMarkedStaffApprovedBy": null,
+               "lyricsMarkedCompleteBy": null,
+               "featuredArtists": [],
+               "descriptionAnnotation": 32199528,
+               "customPerformances": [
+                   {
+                       "artists": [
+                           {
+                               "iq": 493,
+                               "url": "https://genius.com/artists/Cakeboy",
+                               "slug": "Cakeboy",
+                               "name": "CAKEBOY",
+                               "isVerified": true,
+                               "isMemeVerified": false,
+                               "indexCharacter": "c",
+                               "imageUrl": "https://images.genius.com/45b7ad5e7d13b084e86fff45f673ae65.1000x1000x1.jpg",
+                               "id": 324698,
+                               "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+                               "apiPath": "/artists/324698",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Mixing Engineer"
+                   },
+                   {
+                       "artists": [
+                           {
+                               "url": "https://genius.com/artists/Glam-go-gang",
+                               "slug": "Glam-go-gang",
+                               "name": "GLAM GO GANG!",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "g",
+                               "imageUrl": "https://images.genius.com/1156e833e1ce79bfb803753e3a9c1bcb.1000x1000x1.jpg",
+                               "id": 1666907,
+                               "headerImageUrl": "https://images.genius.com/bc84772d6c12240cc47c7a0c3078f1fe.1000x691x1.jpg",
+                               "apiPath": "/artists/1666907",
+                               "type": "artist"
+                           },
+                           {
+                               "url": "https://genius.com/artists/Lootvox-music",
+                               "slug": "Lootvox-music",
+                               "name": "LootVox Music",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "l",
+                               "imageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "id": 3099004,
+                               "headerImageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "apiPath": "/artists/3099004",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Phonographic Copyright ℗"
+                   },
+                   {
+                       "artists": [
+                           {
+                               "url": "https://genius.com/artists/Glam-go-gang",
+                               "slug": "Glam-go-gang",
+                               "name": "GLAM GO GANG!",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "g",
+                               "imageUrl": "https://images.genius.com/1156e833e1ce79bfb803753e3a9c1bcb.1000x1000x1.jpg",
+                               "id": 1666907,
+                               "headerImageUrl": "https://images.genius.com/bc84772d6c12240cc47c7a0c3078f1fe.1000x691x1.jpg",
+                               "apiPath": "/artists/1666907",
+                               "type": "artist"
+                           },
+                           {
+                               "url": "https://genius.com/artists/Lootvox-music",
+                               "slug": "Lootvox-music",
+                               "name": "LootVox Music",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "l",
+                               "imageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "id": 3099004,
+                               "headerImageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "apiPath": "/artists/3099004",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Copyright ©"
+                   },
+                   {
+                       "artists": [
+                           {
+                               "url": "https://genius.com/artists/Believe",
+                               "slug": "Believe",
+                               "name": "Believe",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "b",
+                               "imageUrl": "https://images.genius.com/d282103bb6645953ea911ebfcec15bb2.719x719x1.jpg",
+                               "id": 1092653,
+                               "headerImageUrl": "https://images.genius.com/e12929b5ec28cec874670d3de31554a2.1000x333x1.jpg",
+                               "apiPath": "/artists/1092653",
+                               "type": "artist"
+                           },
+                           {
+                               "iq": 121,
+                               "url": "https://genius.com/artists/Koala-music",
+                               "slug": "Koala-music",
+                               "name": "KOALA MUSIC",
+                               "isVerified": true,
+                               "isMemeVerified": false,
+                               "indexCharacter": "k",
+                               "imageUrl": "https://images.genius.com/3bb30013a86a72e420947fecfd59b2bd.1000x1000x1.png",
+                               "id": 1111205,
+                               "headerImageUrl": "https://images.genius.com/649029e914ce6d4a8ce2faacb24e1146.800x500x1.jpg",
+                               "apiPath": "/artists/1111205",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Distributor"
+                   },
+                   {
+                       "artists": [
+                           {
+                               "url": "https://genius.com/artists/Glam-go-gang",
+                               "slug": "Glam-go-gang",
+                               "name": "GLAM GO GANG!",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "g",
+                               "imageUrl": "https://images.genius.com/1156e833e1ce79bfb803753e3a9c1bcb.1000x1000x1.jpg",
+                               "id": 1666907,
+                               "headerImageUrl": "https://images.genius.com/bc84772d6c12240cc47c7a0c3078f1fe.1000x691x1.jpg",
+                               "apiPath": "/artists/1666907",
+                               "type": "artist"
+                           },
+                           {
+                               "url": "https://genius.com/artists/Lootvox-music",
+                               "slug": "Lootvox-music",
+                               "name": "LootVox Music",
+                               "isVerified": false,
+                               "isMemeVerified": false,
+                               "indexCharacter": "l",
+                               "imageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "id": 3099004,
+                               "headerImageUrl": "https://images.genius.com/6a3c8e183dbe6dbf9bada24c4d958688.1000x1000x1.jpg",
+                               "apiPath": "/artists/3099004",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Label"
+                   },
+                   {
+                       "artists": [
+                           {
+                               "iq": 121,
+                               "url": "https://genius.com/artists/Koala-music",
+                               "slug": "Koala-music",
+                               "name": "KOALA MUSIC",
+                               "isVerified": true,
+                               "isMemeVerified": false,
+                               "indexCharacter": "k",
+                               "imageUrl": "https://images.genius.com/3bb30013a86a72e420947fecfd59b2bd.1000x1000x1.png",
+                               "id": 1111205,
+                               "headerImageUrl": "https://images.genius.com/649029e914ce6d4a8ce2faacb24e1146.800x500x1.jpg",
+                               "apiPath": "/artists/1111205",
+                               "type": "artist"
+                           }
+                       ],
+                       "label": "Publisher"
+                   }
+               ],
+               "albums": [
+                   1202288
+               ],
+               "album": 1202288,
+               "stubhubDeal": "viagogo",
+               "songArtTextColor": "#fff",
+               "songArtSecondaryColor": "#931206",
+               "songArtPrimaryColor": "#dc1305",
+               "currentUserMetadata": {
+                   "iqByAction": {},
+                   "relationships": {},
+                   "interactions": {
+                       "following": false,
+                       "pyong": false
+                   },
+                   "excludedPermissions": [
+                       "follow",
+                       "award_transcription_iq",
+                       "remove_transcription_iq",
+                       "see_pageviews",
+                       "pyong",
+                       "edit_lyrics",
+                       "view_annotation_engagement_data",
+                       "publish",
+                       "unpublish",
+                       "edit_spotify_details",
+                       "hide",
+                       "unhide",
+                       "toggle_featured_video",
+                       "add_pinned_annotation_to",
+                       "add_community_annotation_to",
+                       "destroy",
+                       "mark_as_not_spam",
+                       "edit_spotify_annotations_for",
+                       "verify_lyrics",
+                       "unverify_lyrics",
+                       "edit_anything",
+                       "edit_any_media",
+                       "edit",
+                       "rename",
+                       "edit_tags",
+                       "reindex",
+                       "view_lyrics_synchronization",
+                       "enable_media",
+                       "disable_media",
+                       "edit_lyrics_or_annotation_brackets",
+                       "see_editorial_indicators",
+                       "view_attribution_visualization",
+                       "edit_annotation_brackets",
+                       "preview_lyrics_for_export",
+                       "hide_apple_player",
+                       "unhide_apple_player",
+                       "trigger_apple_match",
+                       "mark_lyrics_evaluation_as_complete",
+                       "mark_lyrics_evaluation_as_staff_approved",
+                       "unmark_lyrics_evaluation_as_complete",
+                       "mark_lyrics_evaluation_as_un_staff_approved",
+                       "view_transcriber_media_player",
+                       "override_apple_match",
+                       "set_song_color_gradient",
+                       "mark_as_hot",
+                       "unmark_as_hot",
+                       "view_relationships_page",
+                       "view_mark_complete_explanatory_tooltip",
+                       "edit_youtube_url",
+                       "edit_soundcloud_url",
+                       "edit_spotify_uuid",
+                       "edit_vevo_url",
+                       "create_comment",
+                       "moderate_annotations",
+                       "create_annotation",
+                       "see_short_id",
+                       "manage_chart_item",
+                       "create_tag",
+                       "propose_lyrics_edit",
+                       "view_lyrics_edit_proposals_on_song",
+                       "create_question",
+                       "answer_question_with_source",
+                       "create_additional_role",
+                       "add_qa",
+                       "pin_qa"
+                   ],
+                   "permissions": [
+                       "view_apple_music_player",
+                       "view_recommendations",
+                       "view_song_story_gallery"
+                   ]
+               },
+               "youtubeUrl": "https://www.youtube.com/watch?v=F3O9xQ4kjy0",
+               "youtubeStart": null,
+               "vttpId": null,
+               "viewableByRoles": [],
+               "updatedByHumanAt": 1735595545,
+               "twitterShareMessageWithoutUrl": "CAKEBOY & КлоуКома (KlouKoma) – Backward @CAKEBOY132 @Kloukoma",
+               "twitterShareMessage": "CAKEBOY & КлоуКома (KlouKoma) – Backward @CAKEBOY132 @Kloukoma https://genius.com/Cakeboy-and-kloukoma-backward-lyrics",
+               "transcriptionPriority": "normal",
+               "trackingPaths": {
+                   "concurrent": "/Cakeboy-and-kloukoma-backward-lyrics",
+                   "aggregate": "/Cakeboy-and-kloukoma-backward-lyrics"
+               },
+               "trackingData": [
+                   {
+                       "value": 10584710,
+                       "key": "Song ID"
+                   },
+                   {
+                       "value": "Backward",
+                       "key": "Title"
+                   },
+                   {
+                       "value": "CAKEBOY",
+                       "key": "Primary Artist"
+                   },
+                   {
+                       "value": 324698,
+                       "key": "Primary Artist ID"
+                   },
+                   {
+                       "value": [
+                           "CAKEBOY",
+                           "КлоуКома (KlouKoma)"
+                       ],
+                       "key": "Primary Artists"
+                   },
+                   {
+                       "value": [
+                           324698,
+                           1596651
+                       ],
+                       "key": "Primary Artists IDs"
+                   },
+                   {
+                       "value": "324698,1596651",
+                       "key": "Primary Artists IDs Fallback"
+                   },
+                   {
+                       "value": "KISS THE WALL",
+                       "key": "Primary Album"
+                   },
+                   {
+                       "value": 1202288,
+                       "key": "Primary Album ID"
+                   },
+                   {
+                       "value": "rap",
+                       "key": "Tag"
+                   },
+                   {
+                       "value": "rap",
+                       "key": "Primary Tag"
+                   },
+                   {
+                       "value": 1434,
+                       "key": "Primary Tag ID"
+                   },
+                   {
+                       "value": true,
+                       "key": "Music?"
+                   },
+                   {
+                       "value": "Song",
+                       "key": "Annotatable Type"
+                   },
+                   {
+                       "value": 10584710,
+                       "key": "Annotatable ID"
+                   },
+                   {
+                       "value": false,
+                       "key": "featured_video"
+                   },
+                   {
+                       "value": [],
+                       "key": "cohort_ids"
+                   },
+                   {
+                       "value": true,
+                       "key": "has_verified_callout"
+                   },
+                   {
+                       "value": true,
+                       "key": "has_featured_annotation"
+                   },
+                   {
+                       "value": "2024-06-27T16:16:08Z",
+                       "key": "created_at"
+                   },
+                   {
+                       "value": "2024-06-01",
+                       "key": "created_month"
+                   },
+                   {
+                       "value": 2024,
+                       "key": "created_year"
+                   },
+                   {
+                       "value": "E",
+                       "key": "song_tier"
+                   },
+                   {
+                       "value": false,
+                       "key": "Has Recirculated Articles"
+                   },
+                   {
+                       "value": "ru",
+                       "key": "Lyrics Language"
+                   },
+                   {
+                       "value": true,
+                       "key": "Has Apple Match"
+                   },
+                   {
+                       "value": "2024-10-25",
+                       "key": "Release Date"
+                   },
+                   {
+                       "value": null,
+                       "key": "NRM Tier"
+                   },
+                   {
+                       "value": null,
+                       "key": "NRM Target Date"
+                   },
+                   {
+                       "value": false,
+                       "key": "Has Description"
+                   },
+                   {
+                       "value": true,
+                       "key": "Has Youtube URL"
+                   },
+                   {
+                       "value": false,
+                       "key": "Has Translation Q&A"
+                   },
+                   {
+                       "value": 2,
+                       "key": "Comment Count"
+                   },
+                   {
+                       "value": false,
+                       "key": "hot"
+                   },
+                   {
+                       "value": true,
+                       "key": "has_recommendations"
+                   },
+                   {
+                       "value": false,
+                       "key": "has_stubhub_artist"
+                   },
+                   {
+                       "value": false,
+                       "key": "has_stubhub_link"
+                   },
+                   {
+                       "value": false,
+                       "key": "Translation"
+                   },
+                   {
+                       "value": "mixpanel",
+                       "key": "recommendation_strategy"
+                   },
+                   {
+                       "value": "control",
+                       "key": "web_interstitial_variant"
+                   },
+                   {
+                       "value": "desktop_react",
+                       "key": "platform_variant"
+                   }
+               ],
+               "titleWithFeatured": "Backward",
+               "stats": {
+                   "hot": false,
+                   "verifiedAnnotations": 1,
+                   "unreviewedAnnotations": 1,
+                   "transcribers": 1,
+                   "iqEarners": 8,
+                   "contributors": 8,
+                   "acceptedAnnotations": 0
+               },
+               "spotifyUuid": null,
+               "soundcloudUrl": null,
+               "songArtImageUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.1000x1000x1.png",
+               "songArtImageThumbnailUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.300x300x1.png",
+               "shareUrl": "https://genius.com/Cakeboy-and-kloukoma-backward-lyrics",
+               "releaseDateWithAbbreviatedMonthForDisplay": "Oct. 25, 2024",
+               "releaseDateForDisplay": "October 25, 2024",
+               "releaseDateComponents": {
+                   "day": 25,
+                   "month": 10,
+                   "year": 2024
+               },
+               "releaseDate": "2024-10-25",
+               "relationshipsIndexUrl": "https://genius.com/Cakeboy-and-kloukoma-backward-sample",
+               "recordingLocation": null,
+               "pyongsCount": null,
+               "pusherChannel": "song-10584710",
+               "published": true,
+               "primaryArtistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+               "pendingLyricsEditsCount": 0,
+               "nextSongSource": "album",
+               "metadataFieldsNa": {
+                   "songMeaning": false,
+                   "albums": false
+               },
+               "lyricsVerified": false,
+               "lyricsUpdatedAt": 1731408196,
+               "lyricsOwnerId": 11383978,
+               "language": "ru",
+               "isMusic": true,
+               "instrumental": false,
+               "hidden": false,
+               "headerImageUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.1000x1000x1.png",
+               "headerImageThumbnailUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.300x300x1.png",
+               "hasInstagramReelAnnotations": false,
+               "fullTitle": "Backward by CAKEBOY & КлоуКома (KlouKoma)",
+               "featuredVideo": false,
+               "facebookShareMessageWithoutUrl": "CAKEBOY & КлоуКома (KlouKoma) – Backward",
+               "explicit": true,
+               "embedContent": "<div id='rg_embed_link_10584710' class='rg_embed_link' data-song-id='10584710'>Read <a href='https://genius.com/Cakeboy-and-kloukoma-backward-lyrics'>“Backward” by CAKEBOY & КлоуКома (KlouKoma)</a> on Genius</div> <script crossorigin src='//genius.com/songs/10584710/embed.js'></script>",
+               "descriptionPreview": "",
+               "description": {
+                   "markdown": "?",
+                   "html": "<p>?</p>"
+               },
+               "customSongArtImageUrl": null,
+               "customHeaderImageUrl": null,
+               "commentCount": 2,
+               "artistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+               "appleMusicPlayerUrl": "https://genius.com/songs/10584710/apple_music_player",
+               "appleMusicId": "1773985680",
+               "annotationCount": 2
+           },
+           "10631399": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-high-percentage-lyrics",
+               "title": "Высокий процент (High Percentage)",
+               "path": "/Cakeboy-and-kloukoma-high-percentage-lyrics",
+               "lyricsState": "complete",
+               "id": 10631399,
+               "apiPath": "/songs/10631399",
+               "type": "song"
+           },
+           "10681749": {
+               "url": "https://genius.com/Cakeboy-kloukoma-and-thomas-mraz-holy-water-lyrics",
+               "title": "Святая вода (Holy Water)",
+               "path": "/Cakeboy-kloukoma-and-thomas-mraz-holy-water-lyrics",
+               "lyricsState": "complete",
+               "id": 10681749,
+               "apiPath": "/songs/10681749",
+               "type": "song"
+           },
+           "10939863": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-ookkaayy-lyrics",
+               "title": "OOKKAAYY",
+               "path": "/Cakeboy-and-kloukoma-ookkaayy-lyrics",
+               "lyricsState": "complete",
+               "id": 10939863,
+               "apiPath": "/songs/10939863",
+               "type": "song"
+           },
+           "10980674": {
+               "url": "https://genius.com/Cakeboy-and-kloukoma-161-132-lyrics",
+               "title": "161-132 (Аутро)",
+               "path": "/Cakeboy-and-kloukoma-161-132-lyrics",
+               "lyricsState": "complete",
+               "id": 10980674,
+               "apiPath": "/songs/10980674",
+               "type": "song"
+           }
+       },
+       "albumAppearances": {
+           "7824335": {
+               "song": 7824335,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 3,
+               "type": "album_appearance"
+           },
+           "9753187": {
+               "song": 9753187,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 7,
+               "type": "album_appearance"
+           },
+           "10493611": {
+               "song": 10493611,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 2,
+               "type": "album_appearance"
+           },
+           "10584710": {
+               "song": 10584710,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 1,
+               "type": "album_appearance"
+           },
+           "10631399": {
+               "song": 10631399,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 4,
+               "type": "album_appearance"
+           },
+           "10681749": {
+               "song": 10681749,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 5,
+               "type": "album_appearance"
+           },
+           "10939863": {
+               "song": 10939863,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 6,
+               "type": "album_appearance"
+           },
+           "10980674": {
+               "song": 10980674,
+               "currentUserMetadata": {
+                   "excludedPermissions": [],
+                   "permissions": [
+                       "view_song"
+                   ]
+               },
+               "number": 8,
+               "type": "album_appearance"
+           }
+       },
+       "albums": {
+           "1202288": {
+               "tracklist": [
+                   10584710,
+                   10493611,
+                   7824335,
+                   10631399,
+                   10681749,
+                   10939863,
+                   9753187,
+                   10980674
+               ],
+               "primaryArtists": [
+                   324698,
+                   1596651
+               ],
+               "artist": 324698,
+               "url": "https://genius.com/albums/Cakeboy-and-kloukoma/Kiss-the-wall",
+               "releaseDateForDisplay": "October 25, 2024",
+               "releaseDateComponents": {
+                   "day": 25,
+                   "month": 10,
+                   "year": 2024
+               },
+               "primaryArtistNames": "CAKEBOY & КлоуКома (KlouKoma)",
+               "nameWithArtist": "KISS THE WALL (artists: CAKEBOY & КлоуКома (KlouKoma))",
+               "name": "KISS THE WALL",
+               "id": 1202288,
+               "fullTitle": "KISS THE WALL by CAKEBOY & КлоуКома (KlouKoma)",
+               "coverArtUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.1000x1000x1.png",
+               "coverArtThumbnailUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.300x300x1.png",
+               "apiPath": "/albums/1202288",
+               "type": "album"
+           }
+       },
+       "users": {
+           "4561489": {
+               "currentUserMetadata": {
+                   "interactions": {
+                       "following": false
+                   },
+                   "excludedPermissions": [
+                       "follow"
+                   ],
+                   "permissions": []
+               },
+               "url": "https://genius.com/CAKEboy",
+               "roleForDisplay": "verified_artist",
+               "name": "CAKEBOY",
+               "login": "CAKEboy",
+               "isVerified": true,
+               "isMemeVerified": false,
+               "iq": 493,
+               "id": 4561489,
+               "humanReadableRoleForDisplay": "Verified Artist",
+               "headerImageUrl": "https://images.genius.com/06e169c36744d8691ae2a8c07566e364.667x1000x1.jpg",
+               "avatar": {
+                   "medium": {
+                       "boundingBox": {
+                           "height": 400,
+                           "width": 300
+                       },
+                       "url": "https://images.genius.com/avatars/medium/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                   },
+                   "small": {
+                       "boundingBox": {
+                           "height": 100,
+                           "width": 100
+                       },
+                       "url": "https://images.genius.com/avatars/small/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                   },
+                   "thumb": {
+                       "boundingBox": {
+                           "height": 32,
+                           "width": 32
+                       },
+                       "url": "https://images.genius.com/avatars/thumb/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                   },
+                   "tiny": {
+                       "boundingBox": {
+                           "height": 16,
+                           "width": 16
+                       },
+                       "url": "https://images.genius.com/avatars/tiny/5dfcc7b39ba12fa631ad37f8ba4dc48c"
+                   }
+               },
+               "apiPath": "/users/4561489",
+               "aboutMeSummary": "Ганджа Дмитрий Андреевич (родился 25 июля 1997 года) — российский исполнитель, продюсер, звукорежиссёр и художник. Дмитрий — участник объединения GLAM GO GANG! и бывший участник",
+               "type": "user"
+           },
+           "19203740": {
+               "currentUserMetadata": {
+                   "interactions": {
+                       "following": false
+                   },
+                   "excludedPermissions": [
+                       "follow"
+                   ],
+                   "permissions": []
+               },
+               "url": "https://genius.com/diflord",
+               "roleForDisplay": "contributor",
+               "name": "​diflord",
+               "login": "diflord",
+               "isVerified": false,
+               "isMemeVerified": false,
+               "iq": 24201,
+               "id": 19203740,
+               "humanReadableRoleForDisplay": "Contributor",
+               "headerImageUrl": "https://images.genius.com/e03ef71fcdadcc6cbd0c7a17c50112db.667xx1000x1.jpg",
+               "avatar": {
+                   "medium": {
+                       "boundingBox": {
+                           "height": 400,
+                           "width": 300
+                       },
+                       "url": "https://images.genius.com/avatars/medium/a4283b3c8ffb970fd15f41802dd92b2c"
+                   },
+                   "small": {
+                       "boundingBox": {
+                           "height": 100,
+                           "width": 100
+                       },
+                       "url": "https://images.genius.com/avatars/small/a4283b3c8ffb970fd15f41802dd92b2c"
+                   },
+                   "thumb": {
+                       "boundingBox": {
+                           "height": 32,
+                           "width": 32
+                       },
+                       "url": "https://images.genius.com/avatars/thumb/a4283b3c8ffb970fd15f41802dd92b2c"
+                   },
+                   "tiny": {
+                       "boundingBox": {
+                           "height": 16,
+                           "width": 16
+                       },
+                       "url": "https://images.genius.com/avatars/tiny/a4283b3c8ffb970fd15f41802dd92b2c"
+                   }
+               },
+               "apiPath": "/users/19203740",
+               "aboutMeSummary": "diflord (родился 26 апреля в Санкт-Петербурге, Россия) – битмейкер и рэпер. Начал карьеру в 2022 году",
+               "type": "user"
+           }
+       },
+       "annotations": {
+           "32199528": {
+               "verifiedBy": null,
+               "topComment": null,
+               "rejectionComment": null,
+               "createdBy": 19203740,
+               "cosignedBy": [],
+               "authors": [
+                   {
+                       "user": 19203740,
+                       "pinnedRole": null,
+                       "attribution": 1,
+                       "type": "user_attribution"
+                   }
+               ],
+               "acceptedBy": null,
+               "currentUserMetadata": {
+                   "iqByAction": {},
+                   "interactions": {
+                       "vote": null,
+                       "pyong": false,
+                       "cosign": false
+                   },
+                   "excludedPermissions": [
+                       "vote",
+                       "edit",
+                       "cosign",
+                       "uncosign",
+                       "destroy",
+                       "accept",
+                       "reject",
+                       "see_unreviewed",
+                       "clear_votes",
+                       "propose_edit_to",
+                       "pin_to_profile",
+                       "unpin_from_profile",
+                       "update_source",
+                       "edit_custom_preview",
+                       "report_as_abusive",
+                       "create_comment"
+                   ],
+                   "permissions": []
+               },
+               "votesTotal": 0,
+               "verified": false,
+               "url": "https://genius.com/32199528/Cakeboy-and-kloukoma-backward/Backward",
+               "twitterShareMessage": "“?” —@Genius",
+               "state": "needs_exegesis",
+               "source": null,
+               "shareUrl": "https://genius.com/32199528",
+               "referentId": 32199528,
+               "pyongsCount": null,
+               "proposedEditCount": 0,
+               "pinned": false,
+               "needsExegesis": true,
+               "id": 32199528,
+               "hasVoters": false,
+               "embedContent": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/32199528/standalone_embed'><a href='https://genius.com/32199528/Cakeboy-and-kloukoma-backward/Backward'>Backward</a><br><a href='https://genius.com/Cakeboy-and-kloukoma-backward-lyrics'>&#8213; CAKEBOY & КлоуКома (KlouKoma) – Backward</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+               "deleted": false,
+               "customPreview": null,
+               "createdAt": 1719504968,
+               "community": true,
+               "commentCount": 0,
+               "body": {
+                   "markdown": "",
+                   "html": ""
+               },
+               "beingCreated": false,
+               "apiPath": "/annotations/32199528",
+               "type": "annotation"
+           }
+       },
+       "referents": {
+           "32199528": {
+               "annotations": [
+                   32199528
+               ],
+               "annotatable": {
+                   "url": "https://genius.com/Cakeboy-and-kloukoma-backward-lyrics",
+                   "type": "song",
+                   "title": "Backward",
+                   "linkTitle": "Backward by CAKEBOY & КлоуКома (KlouKoma)",
+                   "imageUrl": "https://images.genius.com/70daf364bd8ee347550138e877cf1577.1000x1000x1.png",
+                   "id": 10584710,
+                   "context": "CAKEBOY & КлоуКома (KlouKoma)",
+                   "clientTimestamps": {
+                       "lyricsUpdatedAt": 1731408196,
+                       "updatedByHumanAt": 1735595545
+                   },
+                   "apiPath": "/songs/10584710"
+               },
+               "twitterShareMessage": "“?” —@Genius",
+               "trackingPaths": {
+                   "concurrent": "/Cakeboy-and-kloukoma-backward-lyrics",
+                   "aggregate": "/32199528/Cakeboy-and-kloukoma-backward/Backward"
+               },
+               "currentUserMetadata": {
+                   "relationships": {},
+                   "excludedPermissions": [
+                       "add_pinned_annotation_to",
+                       "add_community_annotation_to"
+                   ],
+                   "permissions": []
+               },
+               "verifiedAnnotatorIds": [],
+               "url": "https://genius.com/32199528/Cakeboy-and-kloukoma-backward/Backward",
+               "songId": 10584710,
+               "range": {
+                   "content": "Backward"
+               },
+               "path": "/32199528/Cakeboy-and-kloukoma-backward/Backward",
+               "isImage": false,
+               "isDescription": true,
+               "iosAppUrl": "genius://referents/32199528",
+               "id": 32199528,
+               "fragment": "Backward",
+               "classification": "needs_exegesis",
+               "apiPath": "/referents/32199528",
+               "annotatorLogin": "diflord",
+               "annotatorId": 19203740,
+               "type": "referent"
+           },
+           "33349504": {
+               "classification": "unreviewed",
+               "editorialState": "pending",
+               "id": 33349504
+           },
+           "33389489": {
+               "classification": "verified",
+               "editorialState": "needs_exegesis",
+               "id": 33389489
+           }
+       },
+       "questionAnswers": {
+           "producer:song:10584710": {
+               "question": "Who produced “Backward” by CAKEBOY &amp; КлоуКома (KlouKoma)?",
+               "path": "/Cakeboy-and-kloukoma-backward-lyrics/q/producer",
+               "id": "producer:song:10584710",
+               "answer": "“<a href='/Cakeboy-and-kloukoma-backward-lyrics'>Backward</a>” by <a href='/artists/Cakeboy'>CAKEBOY</a> & <a href='/artists/Kloukoma'>КлоуКома (KlouKoma)</a> was produced by <a href='/artists/Proovy'>PROOVY</a>.",
+               "type": "song_producer"
+           },
+           "release-date:song:10584710": {
+               "question": "When did CAKEBOY &amp; КлоуКома (KlouKoma) release “Backward”?",
+               "path": "/Cakeboy-and-kloukoma-backward-lyrics/q/release-date",
+               "id": "release-date:song:10584710",
+               "answer": "<a href='/artists/Cakeboy'>CAKEBOY</a> & <a href='/artists/Kloukoma'>КлоуКома (KlouKoma)</a> released “<a href='/Cakeboy-and-kloukoma-backward-lyrics'>Backward</a>” on October 25, 2024.",
+               "type": "song_release_date"
+           },
+           "writer:song:10584710": {
+               "question": "Who wrote “Backward” by CAKEBOY &amp; КлоуКома (KlouKoma)?",
+               "path": "/Cakeboy-and-kloukoma-backward-lyrics/q/writer",
+               "id": "writer:song:10584710",
+               "answer": "“<a href='/Cakeboy-and-kloukoma-backward-lyrics'>Backward</a>” by <a href='/artists/Cakeboy'>CAKEBOY</a> & <a href='/artists/Kloukoma'>КлоуКома (KlouKoma)</a> was written by <a href='/artists/Cakeboy'>CAKEBOY</a>, <a href='/artists/Kloukoma'>КлоуКома (KlouKoma)</a> & <a href='/artists/Proovy'>PROOVY</a>.",
+               "type": "song_writer"
+           }
+       }
+   }
+}
