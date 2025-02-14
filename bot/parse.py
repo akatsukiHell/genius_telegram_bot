@@ -1,7 +1,4 @@
 import re
-import orjson
-
-import datetime
 from transliterate import translit
 
 import scrapy
@@ -10,6 +7,11 @@ from scrapy.crawler import CrawlerProcess
 from msgspec.json import encode, decode
 from msgspec import Struct, field
 
+# from scrapy.utils.project import get_project_settings
+
+import transliterate
+
+start_link = "https://genius.com/albums/Sagath/Its-all-magic"
 BLOCKED_LINK = "https://genius.com/a/the-page-you-re-attempting-to-visit-is-not-available-in-your-region"
 ALL_ARTISTS = 'https://genius.com/artists-index/' #! p/all
 
@@ -52,9 +54,7 @@ class albumData(scrapy.Spider):
       for artist in repo_data.album.primary_artists:
 
          yield {
-            'artist_name': artist.name, 
-            'artist_url' : artist.url,
-            'artist_slug': artist.slug
+            artist.name: artist.url,
 
             #TODO: нужно добавить проверку и очистку лишних символов -> получать имя артиста как на площадках
          }
@@ -68,7 +68,7 @@ class albumData(scrapy.Spider):
       }
 
 
-class SongDataSpider(scrapy.Spider):
+class SongDataSpider(albumData):
    name = "song_data"
    allowed_domains = ["genius.com"]
 
@@ -121,13 +121,15 @@ class SongDataSpider(scrapy.Spider):
       zxczxc = decode(encode(song_dict.entities.songs[str(song_id.songPage.song)]), type=Test)
 
       #TODO: ^ изменить название переменной, + добавить сортировку Primary Artists и Featured Artisti
+      #TODO: настроить добавление 'with' или feat. {artist} при указании треков
 
-      yield {'song id': zxczxc.descriptionAnnotation,
-             'name': zxczxc.title}
+      yield {
+         zxczxc.title: zxczxc.descriptionAnnotation,
+         }
       
 
 
 process = CrawlerProcess()
-process.crawl(albumData, start_urls = ["https://genius.com/albums/Madk1d/He-said-lets-go"])
-process.crawl(SongDataSpider, start_urls = ["https://genius.com/albums/Madk1d/He-said-lets-go"])
+process.crawl(albumData, start_urls = [start_link])
+process.crawl(SongDataSpider, start_urls = [start_link])
 process.start()
